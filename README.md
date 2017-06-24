@@ -33,7 +33,7 @@ Develop as you see fit.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/jekyll-build-notifier.
+Bug reports and pull requests are welcome on GitHub at https://github.com/johnpitchko/jekyll-build-notifier.
 
 
 ## License
